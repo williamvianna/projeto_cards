@@ -115,3 +115,12 @@ a.header__nav--active {
     background-color: transparent;
     color: white;
 }
+
+.rodape {
+    background: #0b171f;
+    padding: 1.8em;
+    font-size: .75em;
+    color: #6f8597;
+    letter-spacing: .3em;
+    text-align: center;
+}
